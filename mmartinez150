@@ -1,0 +1,3 @@
+ls -as ~/.ssh
+ssh-keygen -t  rsa -b 4096 -C
+"Mm8939@aol.com"
